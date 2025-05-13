@@ -6,7 +6,7 @@ import os
 # Set font size for plots
 plt.rcParams.update({'font.size': 16})
 
-# List of violin plot result files with their metadata
+# List of violin plot result analysis files with their metadata
 violin_files = [
     {
         "path": "results/violin/violin_heating_32.xlsx",
